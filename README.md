@@ -6,7 +6,7 @@
 
 
 ![elaurentium GitHub stats](https://github-readme-stats.vercel.app/api?username=elaurentium&show_icons=true&theme=dracula)
-![Anime programming pic](https://e7.pngegg.com/pngimages/133/695/png-clipart-computer-programming-anime-programming-language-thread-animation-gril-reading-cartoon.png)
+<img src="https://e7.pngegg.com/pngimages/133/695/png-clipart-computer-programming-anime-programming-language-thread-animation-gril-reading-cartoon.png" alt="anime programming" width=100px height=100 />
 
 ## Tecnologias que eu ultilizo
 
